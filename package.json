@@ -53,7 +53,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@zazuko/env-node": "^3.0.0",
-    "eslint": "^9",
+    "eslint": "^10",
     "eslint-config-next": "16.2.7",
     "jose": "^6.2.3",
     "jsdom": "^26.1.0",
